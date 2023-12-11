@@ -1,4 +1,4 @@
-![Head Image](https://github.com/LouennGUILLARD/Images/blob/main/Head_GitHub.png)
+![Head Image](https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/Head_GitHub.png)
 
 # **About me**
 
@@ -7,20 +7,20 @@ Hello I'm Louenn GUILLARD or Uranos, a French Student. I'm a Bachelor Universita
 > [!NOTE]
 > Actually, I'm in 2nd years.
 
-![Skills banner](https://github.com/LouennGUILLARD/Images/blob/main/Banner_Skills.png)
+![Skills banner](https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/Banner_Skills.png)
 You can found here computers languages and tools I use regularly.
 
 ## Computer languages
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">
 
 ## Tools
-<img src="https://github.com/LouennGUILLARD/Images/blob/main/icon/IntelliJ.png" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Light.svg" width="32">
+<img src="https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/icon/IntelliJ.png" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Light.svg" width="32">
 
-![Learning banner](https://github.com/LouennGUILLARD/Images/blob/main/Banner_LearningProcess.png)
+![Learning banner](https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/Banner_LearningProcess.png)
 I learn all this languages in my university and by myself.
 
 ## Computer Language I learning
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32"> <img src="https://github.com/LouennGUILLARD/Images/blob/main/icon/SQL.png" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32"> <img src="https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/icon/SQL.png" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> 
 
 
 <!---
