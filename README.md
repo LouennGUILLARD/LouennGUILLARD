@@ -22,6 +22,9 @@ I learn all this languages in my university and by myself.
 ## Computer Language I learning
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32"> <img src="https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/icon/SQL.png" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> 
 
+# **Contact me**
+- Email : louennguillard.pro@gmail.com
+- LinkedIn : [Louenn GUILLARD](https://www.linkedin.com/in/louenn-guillard-b505bb281)
 
 <!---
 LouennGUILLARD/LouennGUILLARD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
