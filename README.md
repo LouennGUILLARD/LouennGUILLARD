@@ -2,13 +2,13 @@
 
 # **About me**
 
-Hello I'm Louenn GUILLARD or Uranos, a French Student. I'm a Bachelor Universitaire de Technologie (BUT) in IT with Application Development: Design, Development, and Validation speciality.
+Hello I'm Louenn GUILLARD or Uranos, a French Student. I'm a Bachelor Universitaire de Technologie (BUT) in IT with Software Development: Design, Development, and Validation speciality.
 
 > [!NOTE]
-> Actually, I'm in 2nd years.
+> Actually, I'm in my 2nd years.
 
 ![Skills banner](https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/Banner_Skills.png)
-You can found here computers languages and tools I use regularly.
+You can find here computers languages and tools I use regularly.
 
 ## Computer languages
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">
@@ -17,7 +17,7 @@ You can found here computers languages and tools I use regularly.
 <img src="https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/icon/IntelliJ.png" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Light.svg" width="32">
 
 ![Learning banner](https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/Banner_LearningProcess.png)
-I learn all this languages in my university and by myself.
+I learn all this languages in my university or by myself.
 
 ## Computer Language I learning
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32"> <img src="https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/icon/SQL.png" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> 
