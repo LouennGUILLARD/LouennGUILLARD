@@ -25,8 +25,3 @@ I learn all this languages in my university or by myself.
 # **Contact me**
 - Email : louennguillard.pro@gmail.com
 - LinkedIn : [Louenn GUILLARD](https://www.linkedin.com/in/louenn-guillard-b505bb281)
-
-<!---
-LouennGUILLARD/LouennGUILLARD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
