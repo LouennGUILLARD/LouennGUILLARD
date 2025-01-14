@@ -1,8 +1,7 @@
 ![Head Image](https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/Head_GitHub.png)
 
-# **About me**
-
-Hello I'm Louenn GUILLARD or Uranos, a French Student. I'm a Bachelor Universitaire de Technologie (BUT) in IT with Software Development: Design, Development, and Validation speciality.
+# **Qui sui-je ?**
+Hello, je suis Louenn GUILLARD, actuellement étudiant en 3éme année de BUT Informatique à l'IUT de Limoges. Je suis aussi alternant dans l'équipe de développement informatique de [GAMAC](https://www.gamac.fr).
 
 > [!NOTE]
 > Actually, I'm in my 2nd years.
