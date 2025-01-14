@@ -34,11 +34,17 @@ Pendant mon alternance, je programme principalement en **Progress**.
 
 ### **Système d'exploitation**
 Bien que j'utilise principalement Windows pour développer, j'ai déjà manipuler d'autre OS :
-- Linux
-  - Debian
-  - Ubuntu
-  - Gnome
-- MAC (en surface)
+- **Linux**
+  - **Debian**
+  - **Ubuntu**
+  - **Gnome**
+- **MAC** (en surface)
+
+
+### **Virualisation**
+Lors des différent TP, j'ai appris à créer des environnement externe à ma machine pour pouvoir éxécuter un programme :
+- **Docker** et **Docker Desktop** pour la création de container pour créer des environnement d'éxécution sans avoir à tout installer sur la machine hôte
+- **Oracle VirtualBox** pour créer des machines virtuel et pouvoir créer des serveur qui ont une interface graphique ou créer des machines et faire des projet de manipulation réseau
 ---
 
 ![Learning Banner](https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/Banner_LearningProcess.png)
@@ -56,6 +62,7 @@ En plus des langages que j'utilise régulièrement, j'ai découvert au travers d
 - **Vue**
 - **Mongos DB**
 - **Cassandra**
+- L'outil de création de réseau **Kathara**
 
 ---
 
