@@ -32,6 +32,12 @@ Je suis actuellement étudiant en **3ᵉ année de BUT Informatique** à l'IUT d
 ### **Expérience professionnelle**
 Pendant mon alternance, je programme principalement en **Progress**.
 
+### **Système d'exploitation**
+Bien que j'utilise principalement Windows pour développer, j'ai déjà manipuler d'autre OS :
+- Linux
+ - Debian
+ - Ubuntu
+ - Gnome 
 ---
 
 ![Learning Banner](https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/Banner_LearningProcess.png)
