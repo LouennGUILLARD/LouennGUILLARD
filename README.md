@@ -35,9 +35,10 @@ Pendant mon alternance, je programme principalement en **Progress**.
 ### **Système d'exploitation**
 Bien que j'utilise principalement Windows pour développer, j'ai déjà manipuler d'autre OS :
 - Linux
- - Debian
- - Ubuntu
- - Gnome 
+  - Debian
+  - Ubuntu
+  - Gnome
+- MAC (en surface)
 ---
 
 ![Learning Banner](https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/Banner_LearningProcess.png)
