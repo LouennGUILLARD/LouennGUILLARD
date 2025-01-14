@@ -37,13 +37,18 @@ Pendant mon alternance, je programme principalement en **Progress**.
 ![Learning Banner](https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/Banner_LearningProcess.png)
 
 ### **Langages explorés**
-En plus des langages que j'utilise régulièrement, j'ai découvert et commencé à travailler avec d'autres technologies pour des tâches <br/>spécifiques :<br/><br/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="32">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32"> <img src="https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/icon/SQL.png" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32">
+En plus des langages que j'utilise régulièrement, j'ai découvert au travers des différents travaux pratique, plusieurs langages et outils :<br/><br/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="32">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32"> <img src="https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/icon/SQL.png" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="32">
 - **C#** (utilisé sur Unity) 
 - **PHP** (création de sites web complexes) 
 - **Rust** 
 - **Bases de données** (SQL Server, MySQL, NoSQL) 
-- **C++** (programmation orientée objet avancée) 
+- **C++** (programmation orientée objet avancée)
+- **Tailwind**
+- **ExpressJs**
+- **Vue**
+- **Mongos DB**
+- **Cassandra**
 
 ---
 
