@@ -19,7 +19,7 @@ Vous pourrez trouver ici les outils que j'ai régulièrement utiliser tout au lo
 Pendant mon alternance, je programme la grande majorité du temps en Progress.
 
 ![Learning banner](https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/Banner_LearningProcess.png)
-En plus des langages que j'ai pratiqué de manière récurrente, j'ai pu observer et commencer à utiliser d'autre langages pour divers tâches différentes :
+En plus des langages que j'ai pratiqué de manière récurrente, j'ai pu observer et commencer à utiliser d'autre langages pour divers tâches différentes : <br/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32"> <img src="https://github.com/LouennGUILLARD/LouennGUILLARD/blob/main/Images/icon/SQL.png" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> 
 
 # **Contact me**
