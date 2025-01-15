@@ -4,7 +4,7 @@
 Hello ! Je m'appelle **Louenn GUILLARD**.  
 Je suis actuellement étudiant en **3ᵉ année de BUT Informatique** à l'IUT de Limoges et alternant au sein de l'équipe de développement informatique de [GAMAC](https://www.gamac.fr).
 
-> **Parcours** :  
+> ##  **Parcours** :  
 > Mon parcours en BUT Informatique est axé sur la **réalisation d'applications : conception, développement, validation**.
 
 ---
@@ -38,7 +38,6 @@ Bien que j'utilise principalement Windows pour développer, j'ai déjà manipule
   - **Debian**
   - **Ubuntu**
   - **Gnome**
-- **MAC** (en surface)
 
 
 ### **Virualisation**
