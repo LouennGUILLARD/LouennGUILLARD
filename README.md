@@ -40,7 +40,7 @@ Bien que j'utilise principalement Windows pour développer, j'ai déjà manipule
   - **Gnome**
 
 
-### **Virualisation**
+### **Virtualisation**
 Lors des différent TP, j'ai appris à créer des environnement externe à ma machine pour pouvoir éxécuter un programme :
 - **Docker** et **Docker Desktop** pour la création de container pour créer des environnement d'éxécution sans avoir à tout installer sur la machine hôte
 - **Oracle VirtualBox** pour créer des machines virtuel et pouvoir créer des serveur qui ont une interface graphique ou créer des machines et faire des projet de manipulation réseau
