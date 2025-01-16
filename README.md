@@ -31,6 +31,12 @@ Je suis actuellement étudiant en **3ᵉ année de BUT Informatique** à l'IUT d
 
 ### **Expérience professionnelle**
 Pendant mon alternance, je programme principalement en **Progress**.
+---
+# **Projets**
+### **Scolaire**
+
+### **Professionel**
+--- 
 
 ### **Système d'exploitation**
 Bien que j'utilise principalement Windows pour développer, j'ai déjà manipuler d'autre OS :
@@ -38,7 +44,6 @@ Bien que j'utilise principalement Windows pour développer, j'ai déjà manipule
   - **Debian**
   - **Ubuntu**
   - **Gnome**
-
 
 ### **Virtualisation**
 Lors des différent TP, j'ai appris à créer des environnement externe à ma machine pour pouvoir éxécuter un programme :
